@@ -26,7 +26,7 @@ filetype indent on
 set autoread
 
 " 激活鼠标的使用
-set mouse=a
+set mouse=v
 """""""""""""""""""""""""""""""""
 " => 字体和颜色
 """""""""""""""""""""""""""""""""
